@@ -1,6 +1,6 @@
 
 Hi there 👋
-I’m Samarth, a first-year Computer Engineering student at Fr. C. Rodrigues Institute of Technology (FCRIT), Vashi. As a passionate learner, I’m starting my journey in the world of programming and technology, eager to explore and contribute to exciting projects.
+I’m Samarth, a second-year Computer Engineering student at Fr. C. Rodrigues Institute of Technology (FCRIT), Vashi. As a passionate learner, I’m starting my journey in the world of programming and technology, eager to explore and contribute to exciting projects.
 
 💡 Skills & Learning Journey:
 
