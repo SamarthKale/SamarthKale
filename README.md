@@ -1,22 +1,180 @@
+<div align="center">
 
-Hi there 👋
-I’m Samarth, a second-year Computer Engineering student at Fr. C. Rodrigues Institute of Technology (FCRIT), Vashi. As a passionate learner, I’m starting my journey in the world of programming and technology, eager to explore and contribute to exciting projects.
+# 👋 Hi, I'm Samarth Kale!
 
-💡 Skills & Learning Journey:
+### 💻 Computer Engineering Student | Full Stack Developer | AI Enthusiast
 
-🌱 C Programming: Building a strong foundation as a beginner.
-🐍 Python: Exploring its versatility as an amateur coder.
-🤖 AI/ML Enthusiast: Deeply fascinated by artificial intelligence and machine learning, and I aspire to grow my expertise in this domain.
-🎯 Current Goals:
+<p align="center">
+  <i>Second-year Computer Engineering student at Fr. C. Rodrigues Institute of Technology (FCRIT), Vashi</i>
+</p>
 
-Develop practical coding skills and work on small projects.
-Understand and apply AI/ML concepts to real-world problems.
-Contribute to open-source projects and collaborate with like-minded developers.
-🌟 Why I’m Here:
-I’m excited to connect with fellow learners, mentors, and professionals in the tech community. I believe that collaboration and shared knowledge are the keys to growth.
+<p align="center">
+  <i>Driven by curiosity, hands-on learning, and a passion for building scalable and intelligent software systems</i>
+</p>
 
-Let’s connect and build something amazing together! 🚀
-<!---
-SamarthKale/SamarthKale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samarthnkale@gmail.com)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32115521/samarth-kale)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I believe in **learning by building** and **sharing knowledge**. I'm excited to connect with developers, researchers, and professionals who value innovation, collaboration, and continuous growth.
+
+> *Always learning. Always building.*
+
+---
+
+## 💡 Skills & Expertise
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🔧 Programming & Development
+- **C Programming** – Strong foundation in logic building and structured programming
+- **Java** – Object-oriented programming, core concepts, and problem-solving
+- **Python** – Application development and scripting
+- **NumPy & Pandas** – Data analysis, preprocessing, and manipulation
+- **Matplotlib** – Data visualization and analytical insights
+
+</td>
+<td valign="top" width="50%">
+
+### 🌐 Full Stack Development
+- **Backend**: Node.js, Express.js
+- **Frontend**: React, React Native, HTML5, CSS3
+- **APIs**: RESTful API design, authentication, and data handling
+- **Databases**: MySQL, Microsoft SQL Server
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤖 AI & Emerging Technologies
+
+<div align="center">
+
+| Area | Focus |
+|------|-------|
+| 🧠 **Generative AI** | Actively exploring LLMs, model training fundamentals |
+| 📊 **AI/ML Workflows** | Understanding datasets, preprocessing, and evaluation |
+| 🎯 **Practical Applications** | Applying AI to real-world problem statements |
+
+</div>
+
+---
+
+## 🧑‍💻 Leadership & Community
+
+**Jr. Tech Coordinator – ADL Club**
+- 🔍 Exploring Generative AI tools and technologies
+- 🤝 Participating in discussions and initiatives around model training and AI systems
+- 👥 Collaborating with peers on technical learning and innovation
+
+---
+
+## 🎯 Current Goals
+
+```yaml
+objectives:
+  - Build production-ready full stack applications
+  - Strengthen backend architecture and system design
+  - Apply AI/ML & GenAI concepts to practical projects
+  - Contribute to open-source projects
+  - Learn through collaboration, mentorship, and experimentation
+```
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamarthKale&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=SamarthKale&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthKale&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamarthKale&theme=react-dark&hide_border=true&area=true)
+
+![Snake animation](https://raw.githubusercontent.com/SamarthKale/SamarthKale/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SamarthKale&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=3)
+
+</div>
+
+---
+
+## 📈 Profile Views
+
+<div align="center">
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=SamarthKale&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect and Build Something Amazing!
+
+**Open to collaborations, learning opportunities, and innovative projects**
+
+⭐️ From [SamarthKale](https://github.com/SamarthKale)
+
+</div>
