@@ -140,12 +140,8 @@ objectives:
 
 <!-- Classic green contribution tiles (static) -->
 <img
-  src="https://ghchart.rshah.org/409ba5/SamarthKale"
+  src="https://ghchart.rshah.org/SamarthKale"
   alt="Samarth Kale's GitHub Contributions"
 />
-
-<!-- Snake animation (auto-updated by your GitHub Action into 'output' branch) -->
-<!-- Note: this file will exist after the workflow runs successfully and pushes to the `output` branch -->
-![Snake animation](https://raw.githubusercontent.com/SamarthKale/SamarthKale/output/github-contribution-grid-snake-dark.svg)
 
 </div>>
