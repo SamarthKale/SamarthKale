@@ -1,6 +1,8 @@
 <div align="center">
-
-# 👋 Hi, I'm Samarth Kale!
+<!-- GIPHY INTRO -->
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" />
+  
+# Hi, I'm Samarth Kale!
 
 ### 💻 Computer Engineering Student | Full Stack Developer | AI Enthusiast
 
@@ -13,7 +15,8 @@
 </p>
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samarthnkale@gmail.com)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32115521/samarth-kale)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-n-kale/)
+
 
 </div>
 
@@ -144,4 +147,4 @@ objectives:
   alt="Samarth Kale's GitHub Contributions"
 />
 
-</div>>
+</div>
