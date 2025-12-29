@@ -137,7 +137,7 @@ objectives:
 ---
 
 
-## 🟩 GitHub Contributions & Snake
+## 🟩 GitHub Contributions
 
 <div align="center">
 
