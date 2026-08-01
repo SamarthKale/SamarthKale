@@ -7,7 +7,7 @@
 ### 💻 Computer Engineering Student | Full Stack Developer | AI Enthusiast
 
 <p align="center">
-  <i>Second-year Computer Engineering student at Fr. C. Rodrigues Institute of Technology (FCRIT), Vashi</i>
+  <i>Third-year Computer Engineering student at Fr. C. Rodrigues Institute of Technology (FCRIT), Vashi</i>
 </p>
 
 <p align="center">
